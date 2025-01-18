@@ -1,0 +1,12 @@
+citHeader("To cite roundR in publications use:")
+
+citEntry(
+  entry    = "Manual",
+  title    = "tinusvd/roundR: Version 0.2.0 - First release",
+  author   = "Martijn L.G. van Dam",
+  year     = "2025",
+  url      = "github.com/tinusvd/roundR",
+  textVersion = paste(
+"van Dam, M.L.G. (2025). tinusvd/roundR: Version 0.2.0 - First release (Version v0.2.0) [Computer software]."
+  )
+)
