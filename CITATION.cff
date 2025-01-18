@@ -2,7 +2,7 @@ cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "van Dam"
-  given-names: "Martijn L.G."
+  given-names: "M.L.G."
 orcid: "https://orcid.org/0009-0003-9732-6575"
 title: "tinusvd/roundR: Version 0.2.1 First release"
 version: v0.2.1
